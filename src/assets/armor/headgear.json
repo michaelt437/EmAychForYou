@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Leather Headgear",
+    "description": "Headgear made from tanned monster hide. Sturdy and suitable for anyone to use.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "1-71",
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Gathering": 2,
+      "Whim": 3
+    },
+    "materials": {
+      "Warm Pelt": 1,
+      "Iron Ore": 1
+    }
+  },
+  {
+    "name": "Derring Headgear",
+    "description": "Head armor tailored for the Caravan and engraved with their unmistakable emblem.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "1-71",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Health": -1,
+      "Rec Speed": 3,
+      "Mounting": 2
+    },
+    "materials": {
+      "Monster Bone S": 1
+    }
+  },
+  {
+    "name": "Chainmail Headgear",
+    "description": "Headgear crafted from ore. Always a popular choice among hunters.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 400,
+    "skills": {
+      "Health": 1,
+      "Hunger": 2
+    },
+    "materials": {
+      "Earth Crystal": 1,
+      "Iron Ore": 1
+    }
+  }
+]

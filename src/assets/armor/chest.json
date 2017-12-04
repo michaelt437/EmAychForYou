@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Leather Vest",
+    "description": "Chest armor made from leather and other light, easily obtainable materials.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "1-71",
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Gathering": 3,
+      "Whim": 2
+    },
+    "materials": {
+      "Warm Pelt": 1,
+      "Monster Bone S": 1
+    }
+  }
+]

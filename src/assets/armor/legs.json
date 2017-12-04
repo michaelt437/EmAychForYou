@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Leather Trousers",
+    "description": "Leg armor preferred as basic hunter equipment. Light and easy to move in.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "1-71",
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Gathering": 1,
+      "Whim": 3
+    },
+    "materials": {
+      "Warm Pelt": 2
+    }
+  }
+]

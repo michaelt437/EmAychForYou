@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Leather Gloves",
+    "description": "Gloves crafted from leather and other light materials, made to be easy to use.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "1-71",
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Gathering": 1,
+      "Whim": 1
+    },
+    "materials": {
+      "Warm Pelt": 2
+    }
+  },
+  {
+    "name": "Derring Gloves",
+    "description": "Gloves tailored for the Caravan. Quality materials make for a reliable grip.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "1-71",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Gathering": 3,
+      "Fate": 2,
+      "Health": -2,
+      "Mounting": 2
+    },
+    "materials": {
+      "Monster Bone S": 1
+    }
+  },
+  {
+    "name": "Chainmail Gloves",
+    "description": "Sturdy gloves made of chainmail. Popular and easy to maintain.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 400,
+    "skills": {
+      "Health": 1,
+      "Hunger": 2
+    },
+    "materials": {
+      "Iron Ore": 1,
+      "Whetstone": 2
+    }
+  },
+  {
+    "name": "Hunter's Vambraces",
+    "description": "Arm equipment made for hunters. Sturdy and yet still extremely maneuverable.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "6-112",
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 1,
+      "Ranger": 3,
+      "Poison": -1
+    },
+    "materials": {
+      "Earth Crystal": 1,
+      "Jaggi Scale": 2,
+      "Ivy": 1
+    }
+  },
+  {
+    "name": "Hunter's Guards",
+    "description": "Arm equipment made for hunters. Solid all-purpose gear with no major deficiencies.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "3-72",
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 1,
+      "Ranger": 3,
+      "Poison": -1
+    },
+    "materials": {
+      "Earth Crystal": 1,
+      "Jaggi Scale": 2,
+      "Ivy": 1
+    }
+  },
+  {
+    "name": "Bone Vambraces",
+    "description": "Arm equipment crafted from monster bones. Known for their distinctive wild look.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "7-113",
+      "fire": 1,
+      "water": 0,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "price": 800,
+    "skills": {
+      "KO": 3,
+      "Maestro": 1
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Monster Bone S": 2,
+      "Monster Fluid": 2
+    }
+  }
+]

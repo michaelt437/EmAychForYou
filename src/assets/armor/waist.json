@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Leather Belt",
+    "description": "A belt made from leather and other light materials. Basic general equipment.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "1-71",
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Gathering": 3,
+      "Fate": -1,
+      "Health": 2,
+      "Whim": 1
+    },
+    "materials": {
+      "Warm Pelt": 1,
+      "Monster Bone S": 1
+    }
+  }
+]
