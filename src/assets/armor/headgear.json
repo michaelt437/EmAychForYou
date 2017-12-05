@@ -67,11 +67,117 @@
     "price": 400,
     "skills": {
       "Health": 1,
-      "Hunger": 2
+      "Hunger": 1
     },
     "materials": {
       "Earth Crystal": 1,
       "Iron Ore": 1
+    }
+  },
+  {
+    "name": "Hunter's Helm",
+    "description": "Head armor made especially for hunters. Firm yet flexible; a hunter favorite.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "6-112",
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 2,
+      "Ranger": 2,
+      "Poison": -2
+    },
+    "materials": {
+      "Machalite Ore": 1,
+      "Iron Ore": 1,
+      "Gluehopper": 2
+    }
+  },
+  {
+    "name": "Hunter's Cap",
+    "description": "Head armor made especially for hunters. Equipped with a scope in the eye area.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "3-72",
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 3,
+      "Ranger": 2,
+      "Poison": -2
+    },
+    "materials": {
+      "Machalite Ore": 1,
+      "Iron Ore": 1,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Bone Helm",
+    "description": "Head armor fashioned from monster bones. It smells as wild as it looks.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "7-113",
+      "fire": 1,
+      "water": 0,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "price": 800,
+    "skills": {
+      "KO": 1,
+      "Maestro": 1
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Unknown Skull": 1,
+      "Altaroth Jaw": 1
+    }
+  },
+  {
+    "name": "Bone Cap",
+    "description": "Head armor that makes liberal use of monster bone. Protects when it counts.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 800,
+    "skills": {
+      "KO": 1,
+      "Maestro": 1
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Unknown Skull": 1,
+      "Altaroth Jaw": 1
     }
   }
 ]

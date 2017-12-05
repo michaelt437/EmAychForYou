@@ -22,5 +22,161 @@
     "materials": {
       "Warm Pelt": 2
     }
+  },
+  {
+    "name": "Derring Trousers",
+    "description": "Leg armor tailored for the Caravan that holds up well on long treks and climbs.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "1-71",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Health": -2,
+      "Rec Speed": 2,
+      "Mounting": 4
+    },
+    "materials": {
+      "Monster Bone S": 1
+    }
+  },
+  {
+    "name": "Chainmail Trousers",
+    "description": "Sturdy leg armor. Made with as little metal as possible for maximum wearability.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 400,
+    "skills": {
+      "Health": 2,
+      "Hunger": 2
+    },
+    "materials": {
+      "Iron Ore": 2,
+      "Warm Pelt": 2
+    }
+  },
+  {
+    "name": "Hunter's Greaves",
+    "description": "Leg armor made especially for hunters. Stout equipment made for maneuverability.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "6-112",
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 1,
+      "Ranger": 3,
+      "Poison": -2
+    },
+    "materials": {
+      "Iron Ore": 1,
+      "Earth Crystal": 1,
+      "Monster Bone S": 2
+    }
+  },
+  {
+    "name": "Hunter's Leggings",
+    "description": "Leg armor made especially for hunters. Light, strong, and well-balanced.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "3-72",
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 1,
+      "Ranger": 3,
+      "Poison": -2
+    },
+    "materials": {
+      "Iron Ore": 1,
+      "Earth Crystal": 1,
+      "Monster Bone S": 2
+    }
+  },
+  {
+    "name": "Bone Greaves",
+    "description": "Leg armor crafted from monster bones. Provides superb, rugged leg protection.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "7-113",
+      "fire": 1,
+      "water": 0,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "price": 800,
+    "skills": {
+      "KO": 2,
+      "Maestro": 4
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Monster Bone M": 1,
+      "Sharp Fang": 1
+    }
+  },
+  {
+    "name": "Bone Leggings",
+    "description": "Leg armor crafted from monster bones. The wildness they give off is palpable.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 800,
+    "skills": {
+      "KO": 2,
+      "Maestro": 4
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Monster Bone M": 1,
+      "Sharp Fang": 1
+    }
   }
 ]

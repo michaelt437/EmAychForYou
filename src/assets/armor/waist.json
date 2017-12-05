@@ -25,5 +25,162 @@
       "Warm Pelt": 1,
       "Monster Bone S": 1
     }
+  },
+  {
+    "name": "Derring Belt",
+    "description": "Waist armor tailored for the Caravan. Sturdy and designed to get the job done.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 2,
+    "stats": {
+      "defense": "1-71",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Health": -2,
+      "Rec Speed": 3,
+      "Mounting": 1
+    },
+    "materials": {
+      "Monster Bone S": 1,
+      "Iron Ore": 1
+    }
+  },
+  {
+    "name": "Chainmail Belt",
+    "description": "A simple belt, but crafted with a special process. Thin and light on the hips.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 400,
+    "skills": {
+      "Health": 2,
+      "Hunger": 4
+    },
+    "materials": {
+      "Iron Ore": 1,
+      "Warm Pelt": 2
+    }
+  },
+  {
+    "name": "Hunter's Faulds",
+    "description": "Waist armor made especially for hunters. Pliant yet durable, used by many hunters.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "6-112",
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 2,
+      "Ranger": 1,
+      "Poison": -1
+    },
+    "materials": {
+      "Machalite Ore": 2,
+      "Iron Ore": 1,
+      "Glueglopper": 1
+    }
+  },
+  {
+    "name": "Hunter's Coat",
+    "description": "Waist armor made especially for hunters. Well designed, down to the finest details.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "3-72",
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 2,
+      "Ranger": 1,
+      "Poison": -1
+    },
+    "materials": {
+      "Machalite Ore": 2,
+      "Iron Ore": 1,
+      "Glueglopper": 1
+    }
+  },
+  {
+    "name": "Bone Faulds",
+    "description": "Waist armor adorned with monster bones. The spines on its rear are a key feature.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "7-113",
+      "fire": 1,
+      "water": 0,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "price": 800,
+    "skills": {
+      "KO": 2,
+      "Maestro": 3
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Monster Bone S": 2,
+      "Sharp Fang": 2
+    }
+  },
+  {
+    "name": "Bone Coat",
+    "description": "Waist armor crafted from monster bones. Skimpy, but surprisingly practical.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 800,
+    "skills": {
+      "KO": 2,
+      "Maestro": 3
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Monster Bone S": 2,
+      "Sharp Fang": 2
+    }
   }
 ]

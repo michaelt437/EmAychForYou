@@ -153,5 +153,31 @@
       "Monster Bone S": 2,
       "Monster Fluid": 2
     }
+  },
+  {
+    "name": "Bone Guards",
+    "description": "Armguards decorated with monster bones. Said to somehow enhance the five senses.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 800,
+    "skills": {
+      "KO": 3,
+      "Maestro": 1
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Monster Bone S": 2,
+      "Monster Fluid": 2
+    }
   }
 ]

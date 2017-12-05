@@ -23,5 +23,162 @@
       "Warm Pelt": 1,
       "Monster Bone S": 1
     }
+  },
+  {
+    "name": "Derring Jacket",
+    "description": "Chest armor tailored for the Caravan. Set forth into the unknown with shoulders high.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "1-71",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 50,
+    "skills": {
+      "Health": -2,
+      "Rec Speed": 2,
+      "Mounting": 3
+    },
+    "materials": {
+      "Monster Bone S": 1,
+      "Iron Ore": 1
+    }
+  },
+  {
+    "name": "Chainmail Vest",
+    "description": "Sturdy chest armor made of chainmail. Many hunters have relied on its protection.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 400,
+    "skills": {
+      "Health": 3,
+      "Hunger": 1
+    },
+    "materials": {
+      "Iron Ore": 2,
+      "Warm Pelt": 1
+    }
+  },
+  {
+    "name": "Hunter's Mail",
+    "description": "Chest armor made especially for hunters. Common equipment worn by many.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "6-112",
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 2,
+      "Ranger": 1,
+      "Poison": -2
+    },
+    "materials": {
+      "Iron Ore": 2,
+      "Jaggi Scale": 1,
+      "Monster Bone S": 2
+    }
+  },
+  {
+    "name": "Hunter's Vest",
+    "description": "Chest armor made especially for hunters. Famous for its large throat protector.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "3-72",
+      "fire": 1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 750,
+    "skills": {
+      "Combo Rate": 2,
+      "Ranger": 1,
+      "Poison": -2
+    },
+    "materials": {
+      "Iron Ore": 2,
+      "Jaggi Scale": 1,
+      "Monster Bone S": 2
+    }
+  },
+  {
+    "name": "Bone Mail",
+    "description": "Chest armor crafted from monster bones. Evocative of the natural world.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "7-113",
+      "fire": 1,
+      "water": 0,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "price": 800,
+    "skills": {
+      "KO": 2,
+      "Maestro": 1
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Jumbo Bone": 1,
+      "Altaroth Stomach": 2
+    }
+  },
+  {
+    "name": "Bone Vest",
+    "description": "Chest armor crafted from monster bones. Quite practical, despite its appearance.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 1,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 800,
+    "skills": {
+      "KO": 2,
+      "Maestro": 1
+    },
+    "materials": {
+      "Mystery Bone": 2,
+      "Jumbo Bone": 1,
+      "Altaroth Stomach": 2
+    }
   }
 ]

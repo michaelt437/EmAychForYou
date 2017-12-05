@@ -1,7 +1,26 @@
 <template>
   <div id="app">
     <img src="./assets/mh4u.png">
-    <pre>{{chest}}</pre>
+    <h3>Headgear</h3>
+    <ul>
+      <li v-for="part in headgear">{{part.name}}</li>
+    </ul>
+    <h3>Chest</h3>
+    <ul>
+      <li v-for="part in chest">{{part.name}}</li>
+    </ul>
+    <h3>Arms</h3>
+    <ul>
+      <li v-for="part in arms">{{part.name}}</li>
+    </ul>
+    <h3>Waist</h3>
+    <ul>
+      <li v-for="part in waist">{{part.name}}</li>
+    </ul>
+    <h3>Legs</h3>
+    <ul>
+      <li v-for="part in legs">{{part.name}}</li>
+    </ul>
   </div>
 </template>
 
@@ -19,7 +38,11 @@ export default {
   },
   data() {
     return {
-      chest: chest
+      headgear: head_gear,
+      chest: chest,
+      arms: arms,
+      waist: waist,
+      legs: legs
     }
   }
 }
