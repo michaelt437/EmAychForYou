@@ -179,5 +179,59 @@
       "Unknown Skull": 1,
       "Altaroth Jaw": 1
     }
+  },
+  {
+    "name": "Alloy Helm",
+    "description": "Head armor made with quality Machalite Ore. Highly functional defensive armor.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": -1,
+      "water": 1,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 850,
+    "skills": {
+      "Defense": 2,
+      "Gathering": -2,
+      "Wind Res": 2
+    },
+    "materials": {
+      "Machalite": 3,
+      "Earth Crystal": 2,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Alloy Cap",
+    "description": "Head armor made with quality Machalite Ore. Sturdy equipment for Gunners.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 0,
+      "water": 2,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "Gathering": -1,
+      "Pellet Up": 2,
+      "Pellet S+": 2
+    },
+    "materials": {
+      "Machalite Ore": 3,
+      "Earth Crystal": 2,
+      "Iron Ore": 3
+    }
   }
 ]

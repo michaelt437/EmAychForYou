@@ -178,5 +178,81 @@
       "Monster Bone M": 1,
       "Sharp Fang": 1
     }
+  },
+  {
+    "name": "Alloy Greaves",
+    "description": "Leg armor made with quality Machalite Ore. Its design is extremely practical.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "8-114",
+      "fire": -1,
+      "water": 1,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 850,
+    "skills": {
+      "Torso Up": 1
+    },
+    "materials": {
+      "Machalite Ore": 4,
+      "Earth Crystal": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Alloy Leggings",
+    "description": "Leg armor made with quality Machalite Ore. Especially designed for Gunners.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "4-73",
+      "fire": 0,
+      "water": 2,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "Torso Up": 1
+    },
+    "materials": {
+      "Machalite Ore": 4,
+      "Earth Crystal": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Loc Lac Boots",
+    "description": "Boots made for the desert. Maximum heat-resistance in a minimal package.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 2,
+    "stats": {
+      "defense": "5-73",
+      "fire": 2,
+      "water": -3,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "price": 900,
+    "skills": {
+      "Heat Res": 2,
+      "Transportr": 5
+    },
+    "materials": {
+      "Steel Egg": 1,
+      "Monster Fluid": 1,
+      "Jaggi Scale": 3
+    }
   }
 ]

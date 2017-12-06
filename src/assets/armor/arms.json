@@ -179,5 +179,59 @@
       "Monster Bone S": 2,
       "Monster Fluid": 2
     }
+  },
+  {
+    "name": "Alloy Vambraces",
+    "description": "Armguards made with quality Machalite Ore. Their precise design is admirable.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": -1,
+      "water": 1,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 850,
+    "skills": {
+      "Defense": 2,
+      "Gathering": -1,
+      "Wind Res": 1
+    },
+    "materials": {
+      "Machalite Ore": 2,
+      "Earth Crystal": 2,
+      "Iron Ore": 4
+    }
+  },
+  {
+    "name": "Alloy Guards",
+    "description": "Armguards made with quality Machalite Ore. Admired for their simple design.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 0,
+      "water": 2,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "Gathering": -1,
+      "Pellet Up": 1,
+      "Pellet S+": 2
+    },
+    "materials": {
+      "Machalite Ore": 2,
+      "Earth Crystal": 2,
+      "Iron Ore": 4
+    }
   }
 ]

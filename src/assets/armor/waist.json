@@ -182,5 +182,136 @@
       "Monster Bone S": 2,
       "Sharp Fang": 2
     }
+  },
+  {
+    "name": "Alloy Coil",
+    "description": "Waist armor made with quality Machalite Ore. Its sleek design has real beauty.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "8-114",
+      "fire": -1,
+      "water": 1,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 850,
+    "skills": {
+      "Defense": 4,
+      "Gathering": -1,
+      "Wind Res": 1
+    },
+    "materials": {
+      "Machalite Ore": 2,
+      "Monster Bone S": 2,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Alloy Coat",
+    "description": "Waist armor made with quality Machalite Ore. Its design exudes fine craftsmanship.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 0,
+    "stats": {
+      "defense": "4-73",
+      "fire": 0,
+      "water": 2,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "Gathering": -2,
+      "Pellet Up": 3,
+      "Pellet S+": 2
+    },
+    "materials": {
+      "Machalite Ore": 2,
+      "Monster Bone S": 2,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Loc Lac Kilt",
+    "description": "Desert waist armor. Widely used for its reliable heat- resistant properties.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 2,
+    "stats": {
+      "defense": "5-73",
+      "fire": 2,
+      "water": -3,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "price": 900,
+    "skills": {
+      "Heat Res": 3,
+      "Transportr": 4
+    },
+    "materials": {
+      "Steel Egg": 1,
+      "Altaroth Jaw": 1,
+      "Sharp Fang": 2
+    }
+  },
+  {
+    "name": "Light Belt",
+    "description": "Simple leather belt with unique crafting. Thin, thus lightly worn on the waist.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "5-73",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": -2
+    },
+    "price": 900,
+    "skills": {
+      "Gathering": 4,
+      "Transportr": 5
+    },
+    "materials": {
+      "Slagtoth Hide": 5,
+      "Altaroth Stomach": 3,
+      "Paddock Oil": 3
+    }
+  },
+  {
+    "name": "Iron Belt",
+    "description": "Waist armor strengthened with Iron Ore. Stronger than leather, it covers one's weak points.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": 4,
+      "water": -4,
+      "ice": -2,
+      "thunder": -6,
+      "dragon": 0
+    },
+    "price": 2150,
+    "skills": {
+      "Spd Gather": 10
+    },
+    "materials": {
+      "Dragonite Ore": 2,
+      "Warm Pelt": 3,
+      "Konchu Shell": 5
+    }
   }
 ]

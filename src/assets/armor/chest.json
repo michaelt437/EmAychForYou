@@ -180,5 +180,85 @@
       "Jumbo Bone": 1,
       "Altaroth Stomach": 2
     }
+  },
+  {
+    "name": "Alloy Mail",
+    "description": "Chest armor made with quality Machalite Ore. Has a logical, no-frills construction.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": -1,
+      "water": 1,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "price": 850,
+    "skills": {
+      "Defense": 1,
+      "Gathering": -2,
+      "Wind Res": 3
+    },
+    "materials": {
+      "Machalite Ore": 3,
+      "Monster Bone S": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Alloy Vest",
+    "description": "Chest armor made with quality Machalite Ore. Smartly de- signed for top performance.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 0,
+      "water": 2,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "Gathering": -2,
+      "Pellet Up": 2,
+      "Pellet S+": 2
+    },
+    "materials": {
+      "Machalite Ore": 3,
+      "Monster Bone S": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Loc Lac Shawl",
+    "description": "Armor often worn in the desert. Designed to absorb sweat and dissipate heat.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 1,
+    "slots": 1,
+    "stats": {
+      "defense": "5-73",
+      "fire": 2,
+      "water": -3,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "price": 900,
+    "skills": {
+      "Heat Res": 5,
+      "Transportr": 3
+    },
+    "materials": {
+      "Steel Egg": 1,
+      "Altaroth Stomach": 2,
+      "Jaggi Hide": 3
+    }
   }
 ]
