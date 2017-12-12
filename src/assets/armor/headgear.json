@@ -233,5 +233,170 @@
       "Earth Crystal": 2,
       "Iron Ore": 3
     }
+  },
+  {
+    "name": "Bnahabra Hat",
+    "description": "Insect head armor made for a certain aristocrat. Causes quite a stir at parties.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -4,
+      "water": -1,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 1400,
+    "skills": {
+      "Attack": -2,
+      "Status": 2,
+      "Sheathing": 1,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Bnahabra Shell": 2,
+      "Bnahabra Wing": 3,
+      "Thunderbug": 1,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Slagtoth Hood",
+    "description": "Headgear crafted from a thick Slagtoth hide. Prized as rain gear for its Water resistance.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 950,
+    "skills": {
+      "Health": 2,
+      "Rec Speed": 5,
+      "Sleep": -1
+    },
+    "materials": {
+      "Slagtoth Hide": 2,
+      "Machalite Ore": 4,
+      "Warm Pelt": 3
+    }
+  },
+  {
+    "name": "Slagtoth Cowl",
+    "description": "Water-resistant headgear crafted from a thick Slagtoth hide. It repels both rain and wind.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 3,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 3,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Health": 2,
+      "Rec Speed": 4,
+      "Sleep": -1
+    },
+    "materials": {
+      "Slagtoth Hide": 2,
+      "Machalite Ore": 4,
+      "Warm Pelt": 3
+    }
+  },
+  {
+    "name": "Rhenoplos Helm",
+    "description": "Head armor made from Rhenoplos parts. Used when searching sand for ore and water.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": 1,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "KO": 1,
+      "Stun": -2,
+      "Mud/Snow": 1
+    },
+    "materials": {
+      "Rhenoplos Scalp": 1,
+      "Rhenoplos Shell": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Cap",
+    "description": "Head armor made from Rhenoplos parts. Strong enough to burrow through bedrock.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "price": 850,
+    "skills": {
+      "KO": 2,
+      "Stun": -2,
+      "Mud/Snow": 2
+    },
+    "materials": {
+      "Rhenoplos Scalp": 1,
+      "Rhenoplos Shell": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Remobra headgear",
+    "description": "Head armor that looks like a Remobra head. Much softer than the Velociprey model.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": 1,
+      "water": -2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": -3
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 1,
+      "Blight Res": -2,
+      "Poison": 4
+    },
+    "materials": {
+      "Remobra Head": 1,
+      "Rathalos Webbing": 3,
+      "Monster Fluid": 2,
+      "Vermin Coin": 1
+    }
   }
 ]

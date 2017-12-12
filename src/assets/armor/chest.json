@@ -260,5 +260,168 @@
       "Altaroth Stomach": 2,
       "Jaggi Hide": 3
     }
+  },
+  {
+    "name": "Bnahabra Suit",
+    "description": "Insect chest armor made for an aristocrat with unusual tastes. Close fitting.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -4,
+      "water": -1,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 1400,
+    "skills": {
+      "Attack": -2,
+      "Status": 2,
+      "Sheathing": 2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Bnahabra Shell": 2,
+      "Bnahabra Wing": 3,
+      "Monster Fluid": 2,
+      "Thunderbug": 1
+    }
+  },
+  {
+    "name": "Slagtoth Cloak",
+    "description": "Chest armor woven from Slagtoth hides. Prized as rain gear for its Water resistance.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 950,
+    "skills": {
+      "Health": 8,
+      "Rec Speed": 2
+    },
+    "materials": {
+      "Slagtoth Hide": 4,
+      "Machalite Ore": 2,
+      "Warm Pelt": 3
+    }
+  },
+  {
+    "name": "Slagtoth Wrap",
+    "description": "Water-resistant chest armor woven from specially-treated Slagtoth hides.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 3,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Health": 8,
+      "Rec Speed": 2
+    },
+    "materials": {
+      "Slagtoth Hide": 4,
+      "Machalite Ore": 2,
+      "Warm Pelt": 3
+    }
+  },
+  {
+    "name": "Rhenoplos Mail",
+    "description": "Chest armor made from stout materials. Airtight design keeps water and sand out.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": 1,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "KO": 1,
+      "Stun": -2,
+      "Mud/Snow": 2
+    },
+    "materials": {
+      "Rhenoplos Scalp": 1,
+      "Rhenoplos Shell": 2,
+      "Earth Crystal": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Vest",
+    "description": "Chest armor originally used for mining. Used by countless construction workers.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "price": 850,
+    "skills": {
+      "KO": 1,
+      "Stun": -2,
+      "Mud/Snow": 2
+    },
+    "materials": {
+      "Rhenoplos Scalp": 1,
+      "Rhenoplos Shell": 2,
+      "Earth Crystal": 2
+    }
+  },
+  {
+    "name": "Remobra Suit",
+    "description": "Chest armor fashioned from Remobra spoils. Buyers love the stunning jet black hue.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": 1,
+      "water": -2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": -3
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 2,
+      "Blight Res": -1,
+      "Poison": 2
+    },
+    "materials": {
+      "Remobra Hide": 4,
+      "Rathalos Webbing": 2,
+      "Glueglopper": 4,
+      "Vermin Coil": 1
+    }
   }
 ]

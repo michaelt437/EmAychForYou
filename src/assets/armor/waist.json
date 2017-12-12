@@ -239,7 +239,7 @@
   },
   {
     "name": "Loc Lac Kilt",
-    "description": "Desert waist armor. Widely used for its reliable heat- resistant properties.",
+    "description": "Desert waist armor. Widely used for its reliable heat-resistant properties.",
     "type": "All",
     "gender": "Both",
     "rarity": 1,
@@ -260,7 +260,7 @@
     "materials": {
       "Steel Egg": 1,
       "Altaroth Jaw": 1,
-      "Sharp Fang": 2
+      "Sharp Fang": 3
     }
   },
   {
@@ -312,6 +312,115 @@
       "Dragonite Ore": 2,
       "Warm Pelt": 3,
       "Konchu Shell": 5
+    }
+  },
+  {
+    "name": "Bnahabra Coil",
+    "description": "Waist armor created for a fanciful aristocrat, who was fond of collecting curiosities.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -4,
+      "water": -1,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 1400,
+    "skills": {
+      "Attack": -1,
+      "Status": 1,
+      "Sheathing": 2,
+      "Paralysis": 4
+    },
+    "materials": {
+      "Bnahabra Wing": 3,
+      "Bnahabra Shell": 2,
+      "Monster Fluid": 1,
+      "Flashbug": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Coil",
+    "description": "Waist armor made from Rhenoplos parts. Ideal for desert water and ore prospecting.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": 1,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "KO": 2,
+      "Stun": -1,
+      "Mud/Snow": 3
+    },
+    "materials": {
+      "Rhenoplos Shell": 2,
+      "Rhenoplos Scalp": 1,
+      "Earth Crystal": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Coat",
+    "description": "Waist armor made from Rhenoplos parts, with wide coverage for the legs.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "price": 850,
+    "skills": {
+      "KO": 3,
+      "Stun": -1,
+      "Mud/Snow": 2
+    },
+    "materials": {
+      "Rhenoplos Shell": 2,
+      "Rhenoplos Scalp": 1,
+      "Earth Crystal": 2
+    }
+  },
+  {
+    "name": "Remobra Belt",
+    "description": "A belt fashioned from Remobra spoils. Nothing says 'attitude' like a skull.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "15-117",
+      "fire": 1,
+      "water": -2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": -3
+    },
+    "price": 2000,
+    "skills": {
+      "Torso Up": 1
+    },
+    "materials": {
+      "Remobra Hide": 4,
+      "Monster Bone+": 1,
+      "Monster Fluid": 3,
+      "Vermin Coin": 1
     }
   }
 ]

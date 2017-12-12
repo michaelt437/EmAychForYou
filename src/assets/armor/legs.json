@@ -254,5 +254,116 @@
       "Monster Fluid": 1,
       "Jaggi Scale": 3
     }
+  },
+  {
+    "name": "Bnahabra Boots",
+    "description": "Leg armor made of insect parts. A novelty, but excellently designed.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -4,
+      "water": -1,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 1400,
+    "skills": {
+      "Attack": -1,
+      "Status": 3,
+      "Sheathing": 2,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Bnahabra Shell": 2,
+      "Bnahabra Wing": 3,
+      "Thunderbug": 2,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Greaves",
+    "description": "Rhenoplos leg armor. Often used when mining resources for city development.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "8-114",
+      "fire": 1,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "KO": 3,
+      "Stun": -1,
+      "Mud/Snow": 3
+    },
+    "materials": {
+      "Rhenoplos Shell": 2,
+      "Monster Bone S": 4,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Leggings",
+    "description": "Leg armor originally used for mining, but effective enough for hunting.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "price": 850,
+    "skills": {
+      "KO": 2,
+      "Stun": -1,
+      "Mud/Snow": 3
+    },
+    "materials": {
+      "Rhenoplos Shell": 2,
+      "Monster Bone S": 4,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Remobra Feet",
+    "description": "Leg armor fashioned from Remobra spoils. Has a retro look for 'mature' hunters.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 3,
+    "stats": {
+      "defense": "15-117",
+      "fire": 1,
+      "water": -2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": -3
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 1,
+      "Blight Res": -2,
+      "Poison": 1
+    },
+    "materials": {
+      "Striped Skin": 5,
+      "Rathalos Webbing": 2,
+      "Killer Beetle": 2,
+      "Vermin Coin": 1
+    }
   }
 ]

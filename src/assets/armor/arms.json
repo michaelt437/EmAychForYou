@@ -233,5 +233,172 @@
       "Earth Crystal": 2,
       "Iron Ore": 4
     }
+  },
+  {
+    "name": "Konchu Vambraces",
+    "description": "Putting your arms in these is like going inside a Konchu. Hunter tried and tested.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "12-116",
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 1050,
+    "skills": {
+      "Defense": 6,
+      "ThunderRes": -2
+    },
+    "materials": {
+      "Konchu Shell": 5,
+      "Sharp Fang": 3,
+      "Iron Ore": 2,
+      "Glueglopper": 1
+    }
+  },
+  {
+    "name": "Konchu Guards",
+    "description": "Putting your arms in these is like going inside a Konchu -- and who wouldn't love that?",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "6-73",
+      "fire": 3,
+      "water": 3,
+      "ice": 3,
+      "thunder": 3,
+      "dragon": 3
+    },
+    "price": 1050,
+    "skills": {
+      "Defense": 6,
+      "ThunderRes": -2
+    },
+    "materials": {
+      "Konchu Shell": 5,
+      "Sharp Fang": 3,
+      "Iron Ore": 2,
+      "Glueglopper": 1
+    }
+  },
+  {
+    "name": "Bnahabra Gloves",
+    "description": "Rare armguards made from insect parts. Many collectors are obsessed with finding a pair.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -4,
+      "water": -1,
+      "ice": -1,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 1400,
+    "skills": {
+      "Attack": -2,
+      "Status": 2,
+      "Sheathing": 3,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Bnahabra Wing": 3,
+      "Bnahabra Shell": 2,
+      "Altaroth Stomach": 2,
+      "Flashbug": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Vambraces",
+    "description": "Armguards with only three fingers, but still possessed of a formidable grip.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-114",
+      "fire": 1,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "price": 850,
+    "skills": {
+      "Artillery": 2,
+      "KO": 3,
+      "Stun": -2,
+      "Mud/Snow": 1
+    },
+    "materials": {
+      "Rhenoplos Shell": 2,
+      "Monster Bone M": 4,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Guards",
+    "description": "Surprisingly wieldy armguards with a unique, three-finger design.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "4-73",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "price": 850,
+    "skills": {
+      "Artillery": 2,
+      "KO": 2,
+      "Stun": -2,
+      "Mud/Snow": 1
+    },
+    "materials": {
+      "Rhenoplos Shell": 2,
+      "Monster Bone M": 4,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Remobra Gloves",
+    "description": "Armguards fashioned from Remobra spoils. Dark hues give them a lawless look.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "15-117",
+      "fire": 1,
+      "water": -2,
+      "ice": 1,
+      "thunder": 2,
+      "dragon": -3
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 2,
+      "Blight Res": -1,
+      "Poison": 1
+    },
+    "materials": {
+      "Striped Skin": 5,
+      "Rathalos Webbing": 2,
+      "Killer Beetle": 1,
+      "Vermin Coin": 1
+    }
   }
 ]
