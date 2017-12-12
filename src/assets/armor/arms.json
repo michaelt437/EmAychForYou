@@ -400,5 +400,90 @@
       "Killer Beetle": 1,
       "Vermin Coin": 1
     }
+  },
+  {
+    "name": "Remobra Hands",
+    "description": "Armguards fashioned from Remobra spoils. Young folks love the lustrous stripes.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "8-74",
+      "fire": 2,
+      "water": -1,
+      "ice": 2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 2,
+      "Blight Res": -1,
+      "Poison": 1,
+      "Torso Up": 1
+    },
+    "materials": {
+      "Striped Skin": 5,
+      "Rathalos Webbing": 2,
+      "Killer Beetle": 1,
+      "Vermin Coin": 1
+    }
+  },
+  {
+    "name": "Jaggi Vambraces",
+    "description": "Arm equipment made from Jaggi parts. Designed with an emphasis on practicality.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 950,
+    "skills": {
+      "Sharpener": 4,
+      "LastingPwr": -2,
+      "Stun": 1
+    },
+    "materials": {
+      "G.Jaggi Claw": 2,
+      "G.Jaggi Hide": 3,
+      "Jaggi Scale": 2,
+      "Earth Crystal": 2
+    }
+  },
+  {
+    "name": "Jaggi Guards",
+    "description": "Armguards made from Jaggi parts. The design allows for precise hand movement.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Reload Spd": 4,
+      "LastingPwr": -2,
+      "Stun": 1
+    },
+    "materials": {
+      "G.Jaggi Claw": 2,
+      "G.Jaggi Hide": 3,
+      "Jaggi Scale": 2,
+      "Earth Crystal": 2
+    }
   }
 ]

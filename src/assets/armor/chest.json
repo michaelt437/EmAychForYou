@@ -423,5 +423,89 @@
       "Glueglopper": 4,
       "Vermin Coil": 1
     }
+  },
+  {
+    "name": "Remobra Wear",
+    "description": "Chest armor fashioned from Remobra spoils. Sturdy and easy to move in.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": 2,
+      "water": -1,
+      "ice": 2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 2,
+      "Blight Res": -1,
+      "Poison": 2
+    },
+    "materials": {
+      "Remobra Hide": 4,
+      "Rathalos Webbing": 2,
+      "Glueglopper": 4,
+      "Vermin Coin": 1
+    }
+  },
+  {
+    "name": "Jaggi Mail",
+    "description": "Chest armor made from Jaggi parts. The supple skin makes for good protection.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 950,
+    "skills": {
+      "Sharpener": 1,
+      "LastingPwr": -1,
+      "Stun": 2
+    },
+    "materials": {
+      "King's Frill": 1,
+      "G.Jaggi Claw": 2,
+      "Jaggi Hide": 3,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Jaggi Vest",
+    "description": "Chest armor made from Jaggi parts. The thick skin grants good protection from shocks.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Reload Spd": 1,
+      "LastingPwr": -1,
+      "Stun": 2
+    },
+    "materials": {
+      "King's Frill": 1,
+      "G.Jaggi Claw": 2,
+      "Jaggi Hide": 3,
+      "Iron Ore": 3
+    }
   }
 ]

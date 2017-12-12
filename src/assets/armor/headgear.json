@@ -372,7 +372,7 @@
     }
   },
   {
-    "name": "Remobra headgear",
+    "name": "Remobra Headgear",
     "description": "Head armor that looks like a Remobra head. Much softer than the Velociprey model.",
     "type": "All",
     "gender": "Both",
@@ -397,6 +397,90 @@
       "Rathalos Webbing": 3,
       "Monster Fluid": 2,
       "Vermin Coin": 1
+    }
+  },
+  {
+    "name": "Remobra Mask",
+    "description": "Head armor that looks like a Remobra head. It hugs the face and soothes the soul.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": 2,
+      "water": -1,
+      "ice": 2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 1,
+      "Blight Res": -2,
+      "Poison": 4
+    },
+    "materials": {
+      "Remobra Head": 1,
+      "Rathalos Webbing": 3,
+      "Monster Fluid": 2,
+      "Vermin Coin": 1
+    }
+  },
+  {
+    "name": "Jaggi Helm",
+    "description": "Head armor made from Jaggi parts. Inexpensive, but robust and reliable.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 2000,
+    "skills": {
+      "Sharpener": 1,
+      "LastingPwr": -1,
+      "Stun": 1
+    },
+    "materials": {
+      "G.Jaggi Hide": 3,
+      "G.Jaggi Claw": 1,
+      "Jaggi Scale": 2,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Jaggi Cap",
+    "description": "Head armor made from Jaggi parts. Equipped with goggles to protect Gunners' eyes.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Reload Spd": 2,
+      "LastingPwr": -1,
+      "Stun": 2
+    },
+    "materials": {
+      "G.Jaggi Hide": 3,
+      "G.Jaggi Claw": 1,
+      "Jaggi Scale": 2,
+      "Iron Ore": 3
     }
   }
 ]

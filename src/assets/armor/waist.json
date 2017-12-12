@@ -422,5 +422,86 @@
       "Monster Fluid": 3,
       "Vermin Coin": 1
     }
+  },
+  {
+    "name": "Remobra Band",
+    "description": "A unique belt fashioned from Remobra spoils. The design is in demand worldwide.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "8-74",
+      "fire": 2,
+      "water": -1,
+      "ice": 2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "price": 2000,
+    "skills": {
+    },
+    "materials": {
+      "Remobra Hide": 4,
+      "Monster Bone+": 1,
+      "Monster Fluid": 3,
+      "Vermin Coin": 1
+    }
+  },
+  {
+    "name": "Jaggi Faulds",
+    "description": "Waist armor made from Jaggi parts. A flamboyant use of the Jaggi's beautiful skin.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 950,
+    "skills": {
+      "Sharpener": 2,
+      "LastingPwr": -1,
+      "Stun": 3
+    },
+    "materials": {
+      "G.Jaggi Hide": 2,
+      "King's Frill": 1,
+      "Jaggi Hide": 3,
+      "Earth Crystal": 1
+    }
+  },
+  {
+    "name": "Jaggi Coat",
+    "description": "Waist armor made from Jaggi parts. The striking pattern is rather eye-catching.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Reload Spd": 2,
+      "LastingPwr": -1,
+      "Stun": 2
+    },
+    "materials": {
+      "G.Jaggi Hide": 2,
+      "King's Frill": 1,
+      "Jaggi Hide": 3,
+      "Earth Crystal": 1
+    }
   }
 ]

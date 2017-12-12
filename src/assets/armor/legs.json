@@ -365,5 +365,89 @@
       "Killer Beetle": 2,
       "Vermin Coin": 1
     }
+  },
+  {
+    "name": "Remobra Tights",
+    "description": "Leg armor made from Remobra parts. A popular design that doesn't restrict movement.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 3,
+    "stats": {
+      "defense": "8-74",
+      "fire": 2,
+      "water": -1,
+      "ice": 2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "price": 2000,
+    "skills": {
+      "FreeElemnt": 1,
+      "Blight Res": -2,
+      "Poison": 1
+    },
+    "materials": {
+      "Striped Skin": 5,
+      "Rathalos Webbing": 2,
+      "Killer Beetle": 2,
+      "Vermin Coin": 1
+    }
+  },
+  {
+    "name": "Jaggi Greaves",
+    "description": "Leg armor made from Jaggi parts. Crafted for high maneuverability.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-116",
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 950,
+    "skills": {
+      "Sharpener": 2,
+      "LastingPwr": -1,
+      "Stun": 3
+    },
+    "materials": {
+      "Jaggi Hide": 4,
+      "Jaggi Scale": 3,
+      "Monster Bone S": 4,
+      "Machalite Ore": 2
+    }
+  },
+  {
+    "name": "Jaggi Leggings",
+    "description": "Leg armor made from Jaggi parts. Designed to disperse shocks into the ground.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "5-73",
+      "fire": -1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 950,
+    "skills": {
+      "Reload Spd": 2,
+      "LastingPwr": -1,
+      "Stun": 3
+    },
+    "materials": {
+      "Jaggi Hide": 4,
+      "Jaggi Scale": 3,
+      "Monster Bone S": 4,
+      "Machalite Ore": 2
+    }
   }
 ]

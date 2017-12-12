@@ -1,23 +1,23 @@
 <template>
   <div id="app">
     <img src="./assets/mh4u.png">
-    <h3>Headgear</h3>
+    <h3>Headgear ({{headgear.length}})</h3>
     <ul>
       <li v-for="part in headgear">{{part.name}}</li>
     </ul>
-    <h3>Chest</h3>
+    <h3>Chest ({{chest.length}})</h3>
     <ul>
       <li v-for="part in chest">{{part.name}}</li>
     </ul>
-    <h3>Arms</h3>
+    <h3>Arms ({{arms.length}})</h3>
     <ul>
       <li v-for="part in arms">{{part.name}}</li>
     </ul>
-    <h3>Waist</h3>
+    <h3>Waist ({{waist.length}})</h3>
     <ul>
       <li v-for="part in waist">{{part.name}}</li>
     </ul>
-    <h3>Legs</h3>
+    <h3>Legs ({{legs.length}})</h3>
     <ul>
       <li v-for="part in legs">{{part.name}}</li>
     </ul>
