@@ -507,5 +507,227 @@
       "Jaggi Hide": 3,
       "Iron Ore": 3
     }
+  },
+  {
+    "name": "Genprey Mail",
+    "description": "Chest armor made of Genprey parts. Performance differs from Velociprey Mail.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "12-116",
+      "fire": 1,
+      "water": 1,
+      "ice": -3,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Genprey Hide": 3,
+      "Genprey Scale": 2,
+      "Paralysis Sac": 1,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Genprey Vest",
+    "description": "Chest armor crafted from Genprey parts. Known for its thick metallic breastplate.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "6-73",
+      "fire": 2,
+      "water": 2,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Genprey Hide": 3,
+      "Genprey Scale": 2,
+      "Paralysis Sac": 1,
+      "Iron Ore": 3
+    }
+  },
+  {
+    "name": "Ioprey Mail",
+    "description": "Chest armor made from high-quality Ioprey parts. Top class 'Prey armor.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "15-117",
+      "fire": 0,
+      "water": -3,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 2
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 2,
+      "Poison": 1,
+      "Stun": -2
+    },
+    "materials": {
+      "Ioprey Hide": 2,
+      "Poison Sac": 3,
+      "Ioprey Scale": 2,
+      "Machalite Ore": 3
+    }
+  },
+  {
+    "name": "Ioprey Vest",
+    "description": "Chest armor fastened with beautiful red Ioprey scales. Carefully handcrafted.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "8-74",
+      "fire": 1,
+      "water": -2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 2,
+      "Poison": 1,
+      "Stun": -2
+    },
+    "materials": {
+      "Ioprey Hide": 2,
+      "Poison Sac": 3,
+      "Ioprey Scale": 2,
+      "Machalite Ore": 3
+    }
+  },
+  {
+    "name": "Lagombi Mail",
+    "description": "Chest armor that uses soft, voluminous Lagombi fur. Feels wonderful to touch.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 2
+    },
+    "materials": {
+      "Lagombi Plastron": 2,
+      "Lagombi Pelt": 2,
+      "Jaggi Scale": 4,
+      "Killer Beetle": 3
+    }
+  },
+  {
+    "name": "Lagombi Vest",
+    "description": "Exotic chest armor designed with fur from Lagombi that have become acclimated to life on the Tundra.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 2
+    },
+    "materials": {
+      "Lagombi Plastron": 2,
+      "Lagombi Pelt": 2,
+      "Jaggi Scale": 4,
+      "Killer Beetle": 3
+    }
+  },
+  {
+    "name": "Kecha Mail",
+    "description": "Chest armor made from Kecha Wacha pelts. Emphasizes mobility.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -1,
+      "Water Atk": 1,
+      "Whim": 1
+    },
+    "materials": {
+      "Kecha Ear": 1,
+      "Kecha Talon": 1,
+      "Kecha Pelt": 2,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Kecha Vest",
+    "description": "Chest armor made from Kecha Wacha parts. The rich colors may even provide camouflage.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 3,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -1,
+      "Water Atk": 1,
+      "Whim": 1
+    },
+    "materials": {
+      "Kecha Ear": 1,
+      "Kecha Talon": 1,
+      "Kecha Pelt": 2,
+      "Glueglopper": 2
+    }
   }
 ]

@@ -485,5 +485,229 @@
       "Jaggi Scale": 2,
       "Earth Crystal": 2
     }
+  },
+  {
+    "name": "Genprey Vambraces",
+    "description": "Armguards made from Genprey materials. Sisters to the Velociprey Braces.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "12-116",
+      "fire": 1,
+      "water": 1,
+      "ice": -3,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 3,
+      "Rec Speed": -2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Gendrome Hide": 2,
+      "Genprey Scale": 3,
+      "Iron Ore": 2,
+      "Genprey Fang": 5
+    }
+  },
+  {
+    "name": "Genprey Guards",
+    "description": "Armguards made by combining Genprey materials and ore. The metallic armoring is of note.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "6-73",
+      "fire": 2,
+      "water": 2,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 3,
+      "Rec Speed": -2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Gendrome Hide": 2,
+      "Genprey Scale": 3,
+      "Iron Ore": 2,
+      "Genprey Fang": 5
+    }
+  },
+  {
+    "name": "Ioprey Vambraces",
+    "description": "Armguards made of high quality Ioprey materials. A top-class item from the 'Prey family.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": 0,
+      "water": -3,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 2
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 3,
+      "Poison": 1,
+      "Stun": -2
+    },
+    "materials": {
+      "Iodrome Hide": 2,
+      "Ioprey Fang": 5,
+      "Ioprey Scale": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Ioprey Guards",
+    "description": "Armor made of red scales. A specially crafted combo of quality Ioprey parts and ore.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": 1,
+      "water": -2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 3,
+      "Poison": 1,
+      "Stun": -2
+    },
+    "materials": {
+      "Iodrome Hide": 2,
+      "Ioprey Fang": 5,
+      "Ioprey Scale": 2,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Lagombi Vambraces",
+    "description": "Armguards coated with a gripping abrasive. Their warm fur helps protect hands from extreme cold.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 3
+    },
+    "materials": {
+      "Lagombi Iceclaw": 2,
+      "Lagombi Pelt": 2,
+      "Lagombi Plastron": 1,
+      "Meaty Hide": 4
+    }
+  },
+  {
+    "name": "Lagombi Guards",
+    "description": "Armguards coated with a gripping abrasive. Their thick fur helps keep hands warm and mobile.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 3
+    },
+    "materials": {
+      "Lagombi Iceclaw": 2,
+      "Lagombi Pelt": 2,
+      "Lagombi Plastron": 1,
+      "Meaty Hide": 4
+    }
+  },
+  {
+    "name": "Kecha Vambraces",
+    "description": "Armguards made from ample Kecha Wacha parts. The soft material mitigates blows.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -2,
+      "Water Atk": 3,
+      "Whim": 1
+    },
+    "materials": {
+      "Kecha Pelt": 3,
+      "Kecha Longbone": 2,
+      "Monster Bone S": 2,
+      "Ivy": 3
+    }
+  },
+  {
+    "name": "Kecha Guards",
+    "description": "Armguards made from Kecha Wacha parts. To avoid weapon slip, the hands are exposed.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 3,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -2,
+      "Water Atk": 3,
+      "Whim": 1
+    },
+    "materials": {
+      "Kecha Pelt": 3,
+      "Kecha Longbone": 2,
+      "Monster Bone S": 2,
+      "Ivy": 3
+    }
   }
 ]

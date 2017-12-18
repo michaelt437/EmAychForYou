@@ -449,5 +449,221 @@
       "Monster Bone S": 4,
       "Machalite Ore": 2
     }
+  },
+  {
+    "name": "Genprey Greaves",
+    "description": "Leg armor made from Genprey materials. Sisters to the Velociprey Greaves.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "12-116",
+      "fire": 1,
+      "water": 1,
+      "ice": -3,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 1,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Gendrome Hide": 2,
+      "Genprey Scale": 2,
+      "Iron Ore": 4
+    }
+  },
+  {
+    "name": "Genprey Leggings",
+    "description": "Leggings made by combining Genprey parts with fine ore. Provides good feet protection.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "6-73",
+      "fire": 2,
+      "water": 2,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 1,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Gendrome Hide": 2,
+      "Genprey Scale": 2,
+      "Iron Ore": 4
+    }
+  },
+  {
+    "name": "Ioprey Greaves",
+    "description": "Beautiful armor made from red scales. Firmly plants the feet in quality Ioprey.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "15-117",
+      "fire": 0,
+      "water": -3,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 2
+    },
+    "price": 1850,
+    "skills": {
+      "Torso Up": 1
+    },
+    "materials": {
+      "Ioprey Hide": 2,
+      "Ioprey Scale": 4,
+      "Monster Bone S": 3,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Ioprey Leggings",
+    "description": "Leggings crafted from fine Ioprey parts. It is a superior piece of 'Prey class armor.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "8-74",
+      "fire": 1,
+      "water": -2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "price": 1850,
+    "skills": {
+      "Torso Up": 1
+    },
+    "materials": {
+      "Ioprey Hide": 2,
+      "Ioprey Scale": 4,
+      "Monster Bone S": 3,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Lagombi Greaves",
+    "description": "Leg armor covered in a Lagombi's soft pelt. The abrasive texture is helpful when hunting on ice.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "15-117",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 1
+    },
+    "materials": {
+      "Lagombi Pelt": 2,
+      "Lagombi Plastron": 2,
+      "Lagombi Iceclaw": 1,
+      "Glueglopper": 8
+    }
+  },
+  {
+    "name": "Lagombi Leggings",
+    "description": "Leg armor coated with a strong gripping abrasive. The exotic design makes it a work of art.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "8-74",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 1
+    },
+    "materials": {
+      "Lagombi Pelt": 2,
+      "Lagombi Plastron": 2,
+      "Lagombi Iceclaw": 1,
+      "Glueglopper": 8
+    }
+  },
+  {
+    "name": "Kecha Greaves",
+    "description": "Solid armor that will have you just as nimble on your feet as a real Kecha Wacha.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -1,
+      "Water Atk": 1,
+      "Whim": 4
+    },
+    "materials": {
+      "Kecha Tail": 1,
+      "Kecha Longbone": 2,
+      "Kecha Pelt": 2,
+      "Thunderbug": 2
+    }
+  },
+  {
+    "name": "Kecha Leggings",
+    "description": "Vibrant leg armor made from Kecha Wacha parts. Brings out your inner acrobat.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 3,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -1,
+      "Water Atk": 1,
+      "Whim": 4
+    },
+    "materials": {
+      "Kecha Tail": 1,
+      "Kecha Longbone": 2,
+      "Kecha Pelt": 2,
+      "Thunderbug": 2
+    }
   }
 ]

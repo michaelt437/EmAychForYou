@@ -482,5 +482,227 @@
       "Jaggi Scale": 2,
       "Iron Ore": 3
     }
+  },
+  {
+    "name": "Genprey Helm",
+    "description": "A helm made from the finest Genprey materials. Sister to the Velociprey Helm.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "12-116",
+      "fire": 1,
+      "water": 1,
+      "ice": -3,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Gendrome Hide": 2,
+      "Genprey Scale": 3,
+      "Iron Ore": 4,
+      "Monster Bone S": 2
+    }
+  },
+  {
+    "name": "Genprey Cap",
+    "description": "Head armor made of woven Genprey scales. Utilizes sophisticated technology.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "6-73",
+      "fire": 2,
+      "water": 2,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1050,
+    "skills": {
+      "Status": 1,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Gendrome Hide": 2,
+      "Genprey Scale": 3,
+      "Iron Ore": 4,
+      "Monster Bone S": 2
+    }
+  },
+  {
+    "name": "Ioprey Helm",
+    "description": "Head armor made of high-quality Ioprey parts. A top-class item from the 'Prey family.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "15-117",
+      "fire": 0,
+      "water": -3,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 2
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 2,
+      "Poison": 2,
+      "Stun": -2
+    },
+    "materials": {
+      "Iodrome Hide": 3,
+      "Ioprey Hide": 2,
+      "Ioprey Scale": 4,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Ioprey Cap",
+    "description": "Beautiful cap made of red scales. Crafted by weaving select Ioprey material.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "8-74",
+      "fire": 1,
+      "water": -2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 2,
+      "Poison": 3,
+      "Stun": -2
+    },
+    "materials": {
+      "Iodrome Hide": 3,
+      "Ioprey Hide": 2,
+      "Ioprey Scale": 4,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Lagombi Helm",
+    "description": "Head armor with an exotic design that contrasts nicely with its icy, pure-white surface.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 3,
+    "stats": {
+      "defense": "15-117",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 2
+    },
+    "materials": {
+      "Lagombi Ear": 2,
+      "Jumbo Bone": 2,
+      "G.Jaggi Hide": 4,
+      "Ice Crystal": 2
+    }
+  },
+  {
+    "name": "Lagombi Cap",
+    "description": "Head armor made of Lagombi parts. The forehead part can be pulled down to protect the eyes.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 3,
+    "stats": {
+      "defense": "8-74",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 2
+    },
+    "materials": {
+      "Lagombi Ear": 2,
+      "Jumbo Bone": 2,
+      "G.Jaggi Hide": 4,
+      "Ice Crystal": 2
+    }
+  },
+  {
+    "name": "Kecha Helm",
+    "description": "Head armor that turns heads at the hunting grounds with its unique, vibrant design.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -2,
+      "Water Atk": 2,
+      "Whim": 2
+    },
+    "materials": {
+      "Kecha Pelt": 3,
+      "Kecha Tail": 1,
+      "Jumbo Bone": 2,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Kecha Cap",
+    "description": "Head armor woven from Kecha Wacha materials. The hood filters out noise.",
+    "type": "All",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 3,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -1,
+      "Water Atk": 3,
+      "Whim": 2
+    },
+    "materials": {
+      "Kecha Pelt": 3,
+      "Kecha Tail": 1,
+      "Jumbo Bone": 2,
+      "Glueglopper": 2
+    }
   }
 ]

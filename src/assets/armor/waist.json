@@ -503,5 +503,225 @@
       "Jaggi Hide": 3,
       "Earth Crystal": 1
     }
+  },
+  {
+    "name": "Genprey Tassets",
+    "description": "Waist armor made from Genprey materials. Sister to the Velociprey Tassets.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "12-116",
+      "fire": 1,
+      "water": 1,
+      "ice": -3,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1050,
+    "skills": {
+      "Rec Speed": -2,
+      "Paralysis": 5
+    },
+    "materials": {
+      "Genprey Hide": 4,
+      "Genprey Scale": 3,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Genprey Coat",
+    "description": "Armor made from a combination of ore and Genprey parts. Has been extremely finely crafted.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "6-73",
+      "fire": 2,
+      "water": 2,
+      "ice": -2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1050,
+    "skills": {
+      "Rec Speed": -2,
+      "Paralysis": 5
+    },
+    "materials": {
+      "Genprey Hide": 4,
+      "Genprey Scale": 3,
+      "Iron Ore": 2
+    }
+  },
+  {
+    "name": "Ioprey Tassets",
+    "description": "Waist armor made from Ioprey parts. Top of the line 'Prey armor for ultimate protection.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": 0,
+      "water": -3,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 2
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 1,
+      "Poison": 5,
+      "Stun": -2
+    },
+    "materials": {
+      "Iodrome Hide": 2,
+      "Monster Bone M": 3,
+      "Ioprey Scale": 2,
+      "Machalite Ore": 3
+    }
+  },
+  {
+    "name": "Ioprey Coat",
+    "description": "Beautiful armor made from red scales. Expertly crafted from Ioprey parts and ore.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "8-74",
+      "fire": 1,
+      "water": -2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "price": 1850,
+    "skills": {
+      "Status": 1,
+      "Poison": 4,
+      "Stun": -2
+    },
+    "materials": {
+      "Iodrome Hide": 2,
+      "Monster Bone M": 3,
+      "Ioprey Scale": 2,
+      "Machalite Ore": 3
+    }
+  },
+  {
+    "name": "Lagombi Faulds",
+    "description": "Unique waist armor designed for everyday use for those who live in freezing climes.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "15-117",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 2
+    },
+    "materials": {
+      "Lagombi Pelt": 3,
+      "Lagombi Iceclaw": 1,
+      "Jumbo Bone": 2,
+      "Killer Beetle": 3
+    }
+  },
+  {
+    "name": "Lagombi Coat",
+    "description": "Waist armor used in frigid regions. Known and trusted for its use as hunting equipment.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "price": 2150,
+    "skills": {
+      "Evade Dist": 2,
+      "Heat Res": -1,
+      "Cold Res": 2
+    },
+    "materials": {
+      "Lagombi Pelt": 3,
+      "Lagombi Iceclaw": 1,
+      "Jumbo Bone": 2,
+      "Killer Beetle": 3
+    }
+  },
+  {
+    "name": "Kecha Faulds",
+    "description": "Waist armor with a regional Kecha Wacha ear motif said to bring luck to the hunt.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -2,
+      "Water Atk": 2,
+      "Whim": 2
+    },
+    "materials": {
+      "Kecha Longbone": 2,
+      "Kecha Ear": 1,
+      "Monster Bone S": 2,
+      "Ivy": 3
+    }
+  },
+  {
+    "name": "Kecha Coat",
+    "description": "Waist armor with distinct ears. Light and handy, but also a folk art masterpiece.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 3,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 1150,
+    "skills": {
+      "Fate": -2,
+      "Water Atk": 2,
+      "Whim": 2
+    },
+    "materials": {
+      "Kecha Longbone": 2,
+      "Kecha Ear": 1,
+      "Monster Bone S": 2,
+      "Ivy": 3
+    }
   }
 ]
