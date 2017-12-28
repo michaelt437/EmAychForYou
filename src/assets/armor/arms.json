@@ -709,5 +709,455 @@
       "Monster Bone S": 2,
       "Ivy": 3
     }
+  },
+  {
+    "name": "Conga Vambraces",
+    "description": "Armguards made from Congalala parts. Crudely made but highly protective.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 1,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 2000,
+    "skills": {
+      "Biology": 2,
+      "Gluttony": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Congalala Pelt": 2,
+      "Shapr Claw": 3,
+      "Brute Bone": 4,
+      "Killer Beetle": 1
+    }
+  },
+  {
+    "name": "Conga Guards",
+    "description": "Armguards made from Congalala parts. Known for the sinister replica skull design.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": 3
+    },
+    "price": 2000,
+    "skills": {
+      "Biology": 2,
+      "Gluttony": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Congalala Pelt": 2,
+      "Sharp Claw": 3,
+      "Brute Bone": 4,
+      "Killer Beetle": 1
+    }
+  },
+  {
+    "name": "Gypceros Vambraces",
+    "description": "Vambraces covered in Gypceros hide, making them resistant to small attacks.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "14-116",
+      "fire": -4,
+      "water": 1,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 0
+    },
+    "price": 1150,
+    "skills": {
+      "Stamina": 3,
+      "Hunger": -2,
+      "Poison": 2
+    },
+    "materials": {
+      "Rubbery Hide": 3,
+      "Earth Crystal": 2,
+      "Machalite Ore": 2
+    }
+  },
+  {
+    "name": "Gypceros Guards",
+    "description": "Guards wrapped in Gypceros hide. Highly durable, they also offer high protection.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "7-74",
+      "fire": -3,
+      "water": 2,
+      "ice": -1,
+      "thunder": 3,
+      "dragon": 1
+    },
+    "price": 1150,
+    "skills": {
+      "Stamina": 3,
+      "Hunger": -2,
+      "Poison": 2
+    },
+    "materials": {
+      "Rubbery Hide": 3,
+      "Earth Crystal": 2,
+      "Machalite Ore": 2
+    }
+  },
+  {
+    "name": "Tetsucabra Vambraces",
+    "description": "Rigid armguards made from Tetsucabra parts. Designed to protect the hands.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "16-118",
+      "fire": 2,
+      "water": -3,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 1250,
+    "skills": {
+      "Defense": 2,
+      "Gathering": -1,
+      "Health": 1,
+      "Sharpener": 2
+    },
+    "materials": {
+      "Tetsucabra Claw": 1,
+      "Tetsucabra Shell": 2,
+      "Tetsucabra Scale": 2,
+      "Paddock Oil": 2
+    }
+  },
+  {
+    "name": "Tetsucabra Guards",
+    "description": "Rigid armguards made from Tetsucabra parts. High Defense without hampering wearers.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "8-74",
+      "fire": 3,
+      "water": -2,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 1250,
+    "skills": {
+      "Reload Spd": 2,
+      "Defense": 2,
+      "Gathering": -1,
+      "Health": 1
+    },
+    "materials": {
+      "Tetsucabra Claw": 1,
+      "Tetsucabra Shell": 2,
+      "Tetsucabra Scale": 2,
+      "Paddock Oil": 2
+    }
+  },
+  {
+    "name": "Nerscylla Vambraces",
+    "description": "Armguards made of Nerscylla parts. Allow for nimble finger movements.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "19-121",
+      "fire": -2,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 2750,
+    "skills": {
+      "Perception": 1,
+      "Hunger": -2,
+      "SpeedSetup": 4,
+      "Sleep": 3
+    },
+    "materials": {
+      "Nerscylla Claw": 2,
+      "Nerscylla Shell": 2,
+      "Monster Fluid": 2,
+      "Konchu Shell": 2
+    }
+  },
+  {
+    "name": "Nerscylla Guards",
+    "description": "Oddly-hued armguards made from Nerscylla parts. Allow precise use of the hands.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "9-75",
+      "fire": -1,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 2750,
+    "skills": {
+      "Perception": 1,
+      "Hunger": -2,
+      "SpeedSetup": 4,
+      "Sleep": 3
+    },
+    "materials": {
+      "Nerscylla Claw": 2,
+      "Nerscylla Shell": 2,
+      "Monster Fluid": 2,
+      "Konchu Shell": 2
+    }
+  },
+  {
+    "name": "Zamtrios Braces",
+    "description": "Armguards made from Zamtrios parts. Bulky, but extra joints free up movement.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "20-122",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 2900,
+    "skills": {
+      "Ice Atk": 3,
+      "Carnivore": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Zamtrios Fin": 1,
+      "Zamtrios Scale": 2,
+      "Zamtrios Hide": 3,
+      "Frost Sac": 3
+    }
+  },
+  {
+    "name": "Zamtrios Guards",
+    "description": "Armguards made from Zamtrios materials. Sexy streamlining helps deflect blows.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-76",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 2900,
+    "skills": {
+      "Ice Atk": 3,
+      "Carnivore": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Zamtrios Fin": 1,
+      "Zamtrios Scale": 2,
+      "Zamtrios Hide": 3,
+      "Frost Sac": 3
+    }
+  },
+  {
+    "name": "Najarala Braces",
+    "description": "Armguards made from Najarala parts. History shows the value of their Defense.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "20-122",
+      "fire": 1,
+      "water": -2,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 2900,
+    "skills": {
+      "Tranquilzr": 3,
+      "Hearing": 2,
+      "Whim": -2,
+      "Paralysis": 3
+    },
+    "materials": {
+      "Najarala Fang": 3,
+      "Najarala Marrow": 1,
+      "Najarala Sounder": 2,
+      "Slagtoth Hide": 3
+    }
+  },
+  {
+    "name": "Najarala Guards",
+    "description": "Tough armguards with a spiral design. Traditionally worn by upstanding warriors.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-76",
+      "fire": 2,
+      "water": -1,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 2900,
+    "skills": {
+      "Tranquilzr": 3,
+      "Hearing": 2,
+      "Whim": -2,
+      "Paralysis": 3
+    },
+    "materials": {
+      "Najarala Fang": 3,
+      "Najarala Marrow": 1,
+      "Najarala Sounder": 2,
+      "Slagtoth Hide": 3
+    }
+  },
+  {
+    "name": "Khezu Vambraces",
+    "description": "Vambraces covered in Khezu hide. The cool material feels surprisingly good...",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "19-121",
+      "fire": -4,
+      "water": 1,
+      "ice": 2,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "price": 2750,
+    "skills": {
+      "ThunderAtk": 3,
+      "Rec Level": 2
+    },
+    "materials": {
+      "Pale Bone": 1,
+      "Flabby Hide": 2,
+      "Iron Ore": 6,
+      "Thunderbug": 1
+    }
+  },
+  {
+    "name": "Khezu Guards",
+    "description": "Guards covered in Khezu hide. The strange texture of the material is captivating...",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-76",
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 2750,
+    "skills": {
+      "ThunderAtk": 3,
+      "Rec Level": 2
+    },
+    "materials": {
+      "Pale Bone": 1,
+      "Flabby Hide": 2,
+      "Iron Ore": 6,
+      "Thunderbug": 1
+    }
+  },
+  {
+    "name": "Rathian Vambraces",
+    "description": "Armguards made from magnificent green scales. Superior Fire resistance and Defense.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "19-121",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "price": 2750,
+    "skills": {
+      "Health": 1,
+      "Fire Atk": 3,
+      "Rec Speed": -2
+    },
+    "materials": {
+      "Rath Wingtalon": 2,
+      "Rathian Shell": 2,
+      "Rathian Spike": 1,
+      "Earth Crystal": 5
+    }
+  },
+  {
+    "name": "Rathian Guards",
+    "description": "Armguards covered in elegant green scales. One swipe with these can douse an inferno.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-76",
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": -2
+    },
+    "price": 2750,
+    "skills": {
+      "Health": 1,
+      "Fire Atk": 3,
+      "Rec Speed": -2
+    },
+    "materials": {
+      "Rath Wingtalon": 2,
+      "Rathian Shell": 2,
+      "Rathian Spike": 1,
+      "Earth Crystal": 5
+    }
   }
 ]

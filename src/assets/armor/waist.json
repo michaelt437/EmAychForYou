@@ -723,5 +723,455 @@
       "Monster Bone S": 2,
       "Ivy": 3
     }
+  },
+  {
+    "name": "Conga Tassets",
+    "description": "Functional waist armor made from Congalala parts. Awakens the wearer's wild spirit.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 1,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 2000,
+    "skills": {
+      "Biology": 1,
+      "Gluttony": 2,
+      "Hunger": -2
+    },
+    "materials": {
+      "Congalala Fang": 3,
+      "Congalala Pelt": 3,
+      "Seltas Shell": 1,
+      "Jumbo Bone": 2
+    }
+  },
+  {
+    "name": "Conga Coat",
+    "description": "Waist armor crafted from Congalala parts. The unkempt fur symbolizes the wilderness.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": 3
+    },
+    "price": 2000,
+    "skills": {
+      "Biology": 1,
+      "Gluttony": 2,
+      "Hunger": -2
+    },
+    "materials": {
+      "Congalala Fang": 3,
+      "Congalala Pelt": 3,
+      "Seltas Shell": 1,
+      "Jumbo Bone": 2
+    }
+  },
+  {
+    "name": "Gypceros Tassets",
+    "description": "Waist armor wrapped in Gypceros hide. The thick, meaty skin provides ample protection.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "14-116",
+      "fire": -4,
+      "water": 1,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 0
+    },
+    "price": 1150,
+    "skills": {
+      "Stamina": 1,
+      "Hunger": -2,
+      "Poison": 2
+    },
+    "materials": {
+      "Poison Sac": 1,
+      "Earth Crystal": 2,
+      "Rubbery Hide": 2
+    }
+  },
+  {
+    "name": "Gypceros Coat",
+    "description": "Waist armor covered with Gypceros hide. Resistant to Thunder & Water.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "7-74",
+      "fire": -3,
+      "water": 2,
+      "ice": -1,
+      "thunder": 3,
+      "dragon": 1
+    },
+    "price": 1150,
+    "skills": {
+      "Stamina": 1,
+      "Hunger": -2,
+      "Poison": 2
+    },
+    "materials": {
+      "Poison Sac": 1,
+      "Earth Crystal": 2,
+      "Rubbery Hide": 2
+    }
+  },
+  {
+    "name": "Tetsucabra Faulds",
+    "description": "Dashing waist armor with an Eastern-dyed loincloth and handcrafted fastener.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "16-118",
+      "fire": 2,
+      "water": -3,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 1250,
+    "skills": {
+      "Defense": 4,
+      "Gathering": -1,
+      "Health": 1,
+      "Sharpener": 1
+    },
+    "materials": {
+      "Tetsucabra Scale": 3,
+      "Rhenoplos Scalp": 2,
+      "Jumbo Bone": 3,
+      "Mystery Bone": 4
+    }
+  },
+  {
+    "name": "Tetsucabra Coat",
+    "description": "Dashing waist armor with a stirring loincloth that leads hunters to victory.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "8-74",
+      "fire": 3,
+      "water": -2,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 1250,
+    "skills": {
+      "Reload Spd": 1,
+      "Defense": 4,
+      "Gathering": -1,
+      "Health": 1
+    },
+    "materials": {
+      "Tetsucabra Scale": 3,
+      "Rhenoplos Scalp": 2,
+      "Jumbo Bone": 3,
+      "Mystery Bone": 4
+    }
+  },
+  {
+    "name": "Nerscylla Faulds",
+    "description": "Waist armor crafted from the Nerscylla. A masterpiece worthy of a museum.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "19-121",
+      "fire": -2,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 2750,
+    "skills": {
+      "Perception": 1,
+      "Hunger": -2,
+      "SpeedSetup": 2,
+      "Sleep": 2
+    },
+    "materials": {
+      "Nerscylla Chelicera": 2,
+      "Nerscylla Claw": 1,
+      "Nerscylla Shell": 1,
+      "Monster Bone M": 3
+    }
+  },
+  {
+    "name": "Nerscylla Coat",
+    "description": "Waist armor made of Nerscylla parts. Calculated curves help deflect incoming blows.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "9-75",
+      "fire": -1,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 2750,
+    "skills": {
+      "Perception": 1,
+      "Hunger": -2,
+      "SpeedSetup": 2,
+      "Sleep": 2
+    },
+    "materials": {
+      "Nerscylla Chelicera": 2,
+      "Nerscylla Claw": 1,
+      "Nerscylla Shell": 1,
+      "Monster Bone M": 3
+    }
+  },
+  {
+    "name": "Zamtrios Faulds",
+    "description": "Waist armor made of Zamtrios parts. Resilient, particularly against Ice.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "20-122",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 2900,
+    "skills": {
+      "Ice Atk": 2,
+      "Carnivore": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Zamtrios Fin": 1,
+      "Zamtrios Scale": 2,
+      "Zamtrios Sawtooth": 1,
+      "Zamtrios Tailblade": 1
+    }
+  },
+  {
+    "name": "Zamtrios Coat",
+    "description": "Waist armor made of Zamtrios parts. The materials have been pared down to aid mobility.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "10-76",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 2900,
+    "skills": {
+      "Ice Atk": 2,
+      "Carnivore": 2,
+      "Hunger": -2
+    },
+    "materials": {
+      "Zamtrios Fin": 1,
+      "Zamtrios Scale": 2,
+      "Zamtrios Sawtooth": 1,
+      "Zamtrios Tailblade": 1
+    }
+  },
+  {
+    "name": "Najarala Faulds",
+    "description": "Vivid waist armor made from tough Najarala carapace and adorned with rousing ornamentation.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "20-122",
+      "fire": 1,
+      "water": -2,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 2900,
+    "skills": {
+      "Tranquilzr": 2,
+      "Hearing": 1,
+      "Whim": -2,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Najarala Shell": 5,
+      "Najarala Fang": 4,
+      "Najarala Hide": 2,
+      "Monster Bone L": 1
+    }
+  },
+  {
+    "name": "Najarala Coat",
+    "description": "Vibrant, ornamented Najarala waist armor. A prize for seekers of high Defense.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-76",
+      "fire": 2,
+      "water": -1,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 2900,
+    "skills": {
+      "Tranquilzr": 2,
+      "Hearing": 1,
+      "Whim": -2,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Najarala Shell": 5,
+      "Najarala Fang": 4,
+      "Najarala Hide": 2,
+      "Monster Bone L": 1
+    }
+  },
+  {
+    "name": "Khezu Tassets",
+    "description": "Waist armor covered in Khezu hide. It fits any wearer like a glove.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "19-121",
+      "fire": -4,
+      "water": 1,
+      "ice": 2,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "price": 2750,
+    "skills": {
+      "ThunderAtk": 3,
+      "Rec Level": 2,
+      "Stun": -1
+    },
+    "materials": {
+      "Flabby Hide": 2,
+      "Iron Ore": 8,
+      "Rubbery Hide": 1
+    }
+  },
+  {
+    "name": "Khezu Coat",
+    "description": "Waist armor made of Khezu hide. Surprisingly comfortable once you get used to it.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "10-76",
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 2750,
+    "skills": {
+      "ThunderAtk": 3,
+      "Rec Level": 2,
+      "Stun": -1
+    },
+    "materials": {
+      "Flabby Hide": 2,
+      "Iron Ore": 8,
+      "Rubbery Hide": 1
+    }
+  },
+  {
+    "name": "Rathian Faulds",
+    "description": "Regal viridian waist armor. Will intimidate even the most vicious monster.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "19-121",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "price": 2750,
+    "skills": {
+      "Health": 2,
+      "Fire Atk": 2,
+      "Rec Speed": -2
+    },
+    "materials": {
+      "Rathian Webbing": 2,
+      "Rathian Plate": 1,
+      "Flame Sac": 2,
+      "Machalite Ore": 5
+    }
+  },
+  {
+    "name": "Rathian Coat",
+    "description": "Waist armor known by some as an embodiment of the majestic Queen of the Land.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "10-76",
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": -2
+    },
+    "price": 2750,
+    "skills": {
+      "Health": 2,
+      "Fire Atk": 2,
+      "Rec Speed": -2
+    },
+    "materials": {
+      "Rathian Webbing": 2,
+      "Rathian Plate": 1,
+      "Flame Sac": 2,
+      "Machalite Ore": 5
+    }
   }
 ]

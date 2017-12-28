@@ -729,5 +729,459 @@
       "Kecha Pelt": 2,
       "Glueglopper": 2
     }
+  },
+  {
+    "name": "Conga Mail",
+    "description": "Armor made from Congalala parts. The unprotected chest symbolizes the beast's wildness.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "14-116",
+      "fire": -3,
+      "water": 1,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 2000,
+    "skills": {
+      "Biology": 3,
+      "Gluttony": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Congalala Pelt": 2,
+      "Conga Pelt": 4,
+      "Brute Bone": 2,
+      "Glueglopper": 3
+    }
+  },
+  {
+    "name": "Conga Vest",
+    "description": "Armor made from Congalala parts. The exposed chest has a distinct attractiveness.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "7-74",
+      "fire": -2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": 3
+    },
+    "price": 2000,
+    "skills": {
+      "Biology": 3,
+      "Gluttony": 1,
+      "Hunger": -2
+    },
+    "materials": {
+      "Congalala Pelt": 2,
+      "Conga Pelt": 4,
+      "Brute Bone": 2,
+      "Glueglopper": 3
+    }
+  },
+  {
+    "name": "Gypceros Mail",
+    "description": "Chest armor wrapped in rubbery Gypceros hide, making it resistant to physical damage.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "14-116",
+      "fire": -4,
+      "water": 1,
+      "ice": -2,
+      "thunder": 2,
+      "dragon": 0
+    },
+    "price": 1150,
+    "skills": {
+      "Stamina": 2,
+      "Hunger": -2,
+      "Poison": 3
+    },
+    "materials": {
+      "Poison Sac": 1,
+      "Earth Crystal": 1,
+      "Rubbery Hide": 2,
+      "Machalite Ore": 2
+    }
+  },
+  {
+    "name": "Gypceros Vest",
+    "description": "Chest armor wrapped in rubbery Gypceros hide. It is highly resistant to Thunder.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "7-74",
+      "fire": -3,
+      "water": 2,
+      "ice": -1,
+      "thunder": 3,
+      "dragon": 1
+    },
+    "price": 1150,
+    "skills": {
+      "Stamina": 2,
+      "Hunger": -2,
+      "Poison": 3
+    },
+    "materials": {
+      "Poison Sac": 1,
+      "Earth Crystal": 1,
+      "Rubbery Hide": 2,
+      "Machalite Ore": 2
+    }
+  },
+  {
+    "name": "Tetsucabra Mail",
+    "description": "Rigid chest armor made from Tetsucabra parts. Traditional wear for Eastern heroes.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "16-118",
+      "fire": 2,
+      "water": -3,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 1250,
+    "skills": {
+      "Defense": 1,
+      "Gathering": -3,
+      "Health": 4
+    },
+    "materials": {
+      "Tetsucabra Scale": 2,
+      "Tetsucabra Claw": 1,
+      "Rhenoplos Shell": 3,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Tetsucabra Vest",
+    "description": "Rigid chest armor made from Tetsucabra parts. A shining example of Eastern artistry.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "8-74",
+      "fire": 3,
+      "water": -2,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": 2
+    },
+    "price": 1250,
+    "skills": {
+      "Defense": 1,
+      "Gathering": -3,
+      "Health": 4
+    },
+    "materials": {
+      "Tetsucabra Scale": 2,
+      "Tetsucabra Claw": 1,
+      "Rhenoplos Shell": 3,
+      "Glueglopper": 2
+    }
+  },
+  {
+    "name": "Nerscylla Mail",
+    "description": "Chest armor made of Nerscylla parts. Shockingly light, thanks to skilled crafting.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "19-121",
+      "fire": -2,
+      "water": 2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 2
+    },
+    "price": 2750,
+    "skills": {
+      "Perception": 3,
+      "Hunger": -2,
+      "SpeedSetup": 1,
+      "Sleep": 1
+    },
+    "materials": {
+      "Nerscylla Spike": 1,
+      "Nerscylla Chelicera": 2,
+      "Nerscylla Shell": 1,
+      "Monster Bone M": 3
+    }
+  },
+  {
+    "name": "Nerscylla Vest",
+    "description": "Chest armor made of Nerscylla parts. Finely crafted without any chinks.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "9-75",
+      "fire": -1,
+      "water": 3,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "price": 2750,
+    "skills": {
+      "Perception": 2,
+      "Hunger": -2,
+      "SpeedSetup": 2,
+      "Sleep": 1
+    },
+    "materials": {
+      "Nerscylla Spike": 1,
+      "Nerscylla Chelicera": 2,
+      "Nerscylla Shell": 1,
+      "Monster Bone M": 3
+    }
+  },
+  {
+    "name": "Zamtrios Mail",
+    "description": "Chest armor made of Zamtrios materials. Thick enough for hunts in cold climates.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "20-122",
+      "fire": -2,
+      "water": 2,
+      "ice": 2,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "price": 2900,
+    "skills": {
+      "Health": 2,
+      "Ice Atk": 1,
+      "Carnivore": 3,
+      "Hunger": -2
+    },
+    "materials": {
+      "Zamtrios Hide": 3,
+      "Zamtrios Fin": 2,
+      "Zamtrios Scale": 2,
+      "Meaty Hide": 3
+    }
+  },
+  {
+    "name": "Zamtrios Vest",
+    "description": "Chest armor made of Zamtrios materials. Ups resistance to Ice, for chillier hunts.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-76",
+      "fire": -1,
+      "water": 3,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "price": 2900,
+    "skills": {
+      "Health": 2,
+      "Ice Atk": 1,
+      "Carnivore": 3,
+      "Hunger": -2
+    },
+    "materials": {
+      "Zamtrios Hide": 3,
+      "Zamtrios Fin": 2,
+      "Zamtrios Scale": 2,
+      "Meaty Hide": 3
+    }
+  },
+  {
+    "name": "Najarala Mail",
+    "description": "Chest armor with historic value. Passed down through a clan of fine warriors.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "20-122",
+      "fire": 1,
+      "water": -2,
+      "ice": -4,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "price": 2900,
+    "skills": {
+      "Tranquilzr": 1,
+      "Hearing": 3,
+      "Whim": -2,
+      "Paralysis": 1
+    },
+    "materials": {
+      "Najarala Sounder": 2,
+      "Najarala Hide": 3,
+      "Najarala Shell": 3,
+      "Genprey Hide": 3
+    }
+  },
+  {
+    "name": "Najarala Vest",
+    "description": "Chest armor with a long tradition. The red eyes on the shoulders inspire fear.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 1,
+    "stats": {
+      "defense": "10-76",
+      "fire": 2,
+      "water": -1,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "price": 2900,
+    "skills": {
+      "Tranquilzr": 1,
+      "Hearing": 2,
+      "Whim": -2,
+      "Paralysis": 2
+    },
+    "materials": {
+      "Najarala Sounder": 2,
+      "Najarala Hide": 3,
+      "Najarala Shell": 3,
+      "Genprey Hide": 3
+    }
+  },
+  {
+    "name": "Khezu Mail",
+    "description": "Chest armor wrapped in Khezu hide. It fits any wearer like a glove.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "19-121",
+      "fire": -4,
+      "water": 1,
+      "ice": 2,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "price": 2750,
+    "skills": {
+      "ThunderAtk": 2,
+      "Rec Level": 1,
+      "Stun": -2
+    },
+    "materials": {
+      "Flabby Hide": 2,
+      "Iron Ore": 8,
+      "Sharp Claw": 2,
+      "Monster Fluid": 2
+    }
+  },
+  {
+    "name": "Khezu Vest",
+    "description": "Chest armor wrapped in Khezu hide. Its supple texture is extremely comfortable...",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 2,
+    "stats": {
+      "defense": "10-76",
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "price": 2750,
+    "skills": {
+      "ThunderAtk": 2,
+      "Rec Level": 1,
+      "Stun": -2
+    },
+    "materials": {
+      "Flabby Hide": 2,
+      "Iron Ore": 8,
+      "Sharp Claw": 2,
+      "Monster Fluid": 2
+    }
+  },
+  {
+    "name": "Rathian Mail",
+    "description": "Chest armor that lives up to the name of the Queen, with scales harder than metal.",
+    "type": "Blademaster",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "19-121",
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "price": 2750,
+    "skills": {
+      "Health": 4,
+      "Fire Atk": 2,
+      "Rec Speed": -2
+    },
+    "materials": {
+      "Rathian Scale": 4,
+      "Rathian Webbing": 3,
+      "Rath Marrow": 1,
+      "Machalite Ore": 5
+    }
+  },
+  {
+    "name": "Rathian Vest",
+    "description": "Chest armor worthy of the Queen of the Land. Virtually impervious to flame.",
+    "type": "Gunner",
+    "gender": "Both",
+    "rarity": 2,
+    "slots": 0,
+    "stats": {
+      "defense": "10-76",
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -1,
+      "dragon": -2
+    },
+    "price": 2750,
+    "skills": {
+      "Health": 4,
+      "Fire Atk": 2,
+      "Rec Speed": -2
+    },
+    "materials": {
+      "Rathian Scale": 4,
+      "Rathian Webbing": 3,
+      "Rath Marrow": 1,
+      "Machalite Ore": 5
+    }
   }
 ]
